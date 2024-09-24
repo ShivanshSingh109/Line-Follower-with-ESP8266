@@ -2,6 +2,9 @@
 
 <p>This repository contains the code and schematic for building a line-following robot using the ESP8266, 3 IR sensors and the L293D motor driver. The robot is capable of following a line, making sharp turns (up to 60 degrees), performing U-turns and resuming path tracking even after a line break.</p>
 
+<h2>How It Works</h2>
+<p>The IR sensors detect the black line on the ground. The ESP8266 reads the sensor values and adjusts the motor speeds using the L293D motor driver ensuring the robot follows the line. It adjusts direction based on which sensor detects the line.</p>
+
 <h2>Features</h2>
 <ul>
   <li><b>Line following:</b> Uses three IR sensors to detect the black line on a white surface.</li>
@@ -54,5 +57,5 @@
   </li>
 </ul>
 
-<h2>How It Works</h2>
-<p>The IR sensors detect the black line on the ground. The ESP8266 reads the sensor values and adjusts the motor speeds using the L293D motor driver ensuring the robot follows the line. It adjusts direction based on which sensor detects the line.</p>
+<h2>Assembled Robot</h2>
+<img src="./final robot assembled.jpg" alt="Assembled Robot" />
