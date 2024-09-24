@@ -18,7 +18,7 @@
 </ul>
 
 <h2>Circuit Diagram</h2>
-<img src="./circuit%20diagram.png" alt="Circuit Diagram" />
+<img src="./circuit diagram.png" alt="Circuit Diagram" />
 
 <h3>Explanation of the Diagram</h3>
 <ul>
