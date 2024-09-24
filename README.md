@@ -59,3 +59,5 @@
 
 <h2>Assembled Robot</h2>
 <img src="./final robot assembled.jpg" alt="Assembled Robot" />
+<p>Please make it a bit cleaner</p>
+<p>Also do add a start switch!</p>
